@@ -26,7 +26,7 @@ numeros =[4,5,6]
 a,b,c = numeros
 print(numeros)
 
- ## Asignar y operar sobre una variable en la misma línea.
+ ## Asignación y operar sobre una variable en la misma línea.
 x = 5
 x += 8
 x -= 7
@@ -34,7 +34,7 @@ x *= 5
 x /= 10
 print(x)
 
-## Asignar diferentes tipos de valores a las variables.
+## Asignación diferentes tipos de valores a las variables.
 entero = 10
 flotante = 3.14
 cadena = "Python"
